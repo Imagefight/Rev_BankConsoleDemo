@@ -1,0 +1,11 @@
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\bin\Debug\net10.0\BankLib.deps.json
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\bin\Debug\net10.0\BankLib.dll
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\bin\Debug\net10.0\BankLib.pdb
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\BankLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\BankLib.AssemblyInfoInputs.cache
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\BankLib.AssemblyInfo.cs
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\BankLib.csproj.CoreCompileInputs.cache
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\BankLib.dll
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\refint\BankLib.dll
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\BankLib.pdb
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\BankApplication\BankLib\obj\Debug\net10.0\ref\BankLib.dll

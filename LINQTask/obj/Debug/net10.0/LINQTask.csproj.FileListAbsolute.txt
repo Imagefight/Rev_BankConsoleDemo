@@ -1,0 +1,14 @@
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\LINQTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\LINQTask.AssemblyInfoInputs.cache
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\LINQTask.AssemblyInfo.cs
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\LINQTask.csproj.CoreCompileInputs.cache
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\bin\Debug\net10.0\LINQTask.exe
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\bin\Debug\net10.0\LINQTask.deps.json
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\bin\Debug\net10.0\LINQTask.runtimeconfig.json
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\bin\Debug\net10.0\LINQTask.dll
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\bin\Debug\net10.0\LINQTask.pdb
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\LINQTask.dll
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\refint\LINQTask.dll
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\LINQTask.pdb
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\LINQTask.genruntimeconfig.cache
+D:\Revature - Shah Git\RevatureProjects\Day 6 - LINQ\LINQTask\obj\Debug\net10.0\ref\LINQTask.dll
